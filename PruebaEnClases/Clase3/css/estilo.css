@@ -1,0 +1,57 @@
+body{
+    background-color:blueviolet;
+    padding-left: 15em;
+}
+p{
+    color: azure;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: aquamarine;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Hurricane', cursive;
+    text-align: center;
+}
+.Urgente{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+address{
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted;
+}
+
+ul.navbar li{
+    padding: 0.3em 1em;
+    margin-top: 1em;
+    border-right: green solid 1em;
+    background-color: white;
+}
+ul.navbar{
+    position: absolute;
+    left: 2em;
+    top: 2em;
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(0, 83, 179);
+}
+  
+  /* visited link */
+a:visited {
+    color: green;
+}
+  
+  /* mouse over link */
+a:hover {
+    color: rgb(212, 120, 0);
+    cursor: wait;
+}
+  
+  /* selected link */
+a:active {
+    color: blue;
+}
