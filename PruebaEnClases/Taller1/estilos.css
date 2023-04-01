@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(228, 202, 252);
+}
+
+div#Titulo{
+    margin-top: 100px;
+}
+h1{
+    color: rgb(0, 0, 88);
+    font-family: 'Dosis', sans-serif;
+    font-size: 5em;
+}
+h2{
+    color: rgba(0, 56, 88, 0.644);
+    font-family: 'Dosis', sans-serif;
+}
+button{
+    margin-top: 30px;
+}
+div#Card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+i{
+    font-size: 2em;
+    bottom: 0;
+    position: static;
+}
+p#Creado{
+    color: rgba(99, 99, 99, 0.678);
+
+}
