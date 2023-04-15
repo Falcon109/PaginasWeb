@@ -1,0 +1,25 @@
+div.card-boby {
+    margin-left: 2rem;
+}
+
+h5#TituloTarjetas {
+    margin-bottom: 0.5rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    
+}
+
+p#CuerpoTarjetas {
+    text-align: justify;
+    font-family: 'Dosis', sans-serif;
+}
+
+image {
+    justify-items: center;
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 4rem;
+}

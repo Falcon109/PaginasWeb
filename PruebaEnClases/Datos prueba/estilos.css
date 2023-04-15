@@ -1,0 +1,25 @@
+form {
+    margin-left: 3rem;
+}
+
+form label {
+    width: 12rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+form input {
+    margin-bottom: 0.5rem;
+}
+
+.card-title p {
+    margin: 0;
+}
+
+.card-title button {
+    
+    margin-left: 10px;
+    position: absolute;
+    bottom: end;
+}
