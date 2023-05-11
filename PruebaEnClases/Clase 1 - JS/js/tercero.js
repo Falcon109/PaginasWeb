@@ -12,3 +12,7 @@ function azul(){
 }
 
 /* generar un metodo que permita cambiar los color, con una sola funcion, recibiendo un argumento */
+
+function cambiarColor(color){
+    caja.style.backgroundColor = color
+}
